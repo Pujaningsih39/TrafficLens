@@ -1,7 +1,9 @@
-## YOLOv8 Live Object Detection Android Application
+## Deteksi Objek Rambu Lalu Lintas secara Real-time Menggunakan Mobile)
+
 
 ### Description
-This Android application is designed to perform live object detection using the YOLOv8 machine learning model. YOLOv8 (You Only Look Once version 8) is known for its real-time object detection capabilities, and this app brings that functionality to Android devices. 
+Modelling : https://drive.google.com/file/d/1cVnlFUPFOgqyOjDLU_9na2wFBuPbRn-h/view?usp=sharing
+
 
 
 
